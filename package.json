@@ -12,6 +12,10 @@
     "build": "vuepress build docs",
     "dev": "vuepress dev docs"
   },
+  "private": true,
+  "workspaces": [
+    "ui-kit"
+  ],
   "license": "MIT",
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.3.1",
