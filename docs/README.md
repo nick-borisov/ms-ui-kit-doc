@@ -4,5 +4,5 @@ heroImage: https://themindstudios.com/assets/logo-sm-a8f8edc3cdf3e0f859034c5c987
 heroText: Mindstudios
 tagline: Web UI Kit
 actionText: Quick Start →
-actionLink: /guide/
+actionLink: /layout/
 ---

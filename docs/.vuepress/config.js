@@ -39,10 +39,6 @@ module.exports = {
         text: 'Layout',
         link: '/layout/',
       },
-      {
-        text: 'Components',
-        link: '/components/'
-      },
     ],
     sidebar: {
       '/layout/': [
